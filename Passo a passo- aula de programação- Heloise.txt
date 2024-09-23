@@ -1,0 +1,17 @@
+1° Passo) Colocar o disco menor na coluna B
+2° Passo) Colacar o disco intermédiario na coluna C
+3° Passo) Colocar o disco menor na coluna A 
+4° Passo) Colocar o disco intermédiario na coluna B
+5° Passo) Colocar o disco menor na coluna B
+6° Passo) Colocar o disco maior na coluna C
+7° Passo) Colocar o disco menor na coluna A
+8° Passo) Colocar o disco intermédiario na coluna C
+9° Passo) Colocar o disco menor na coluna C
+
+Notas de aprovação
+1° Passo) Somar a nota do primeiro bimestre com a do segundo bimestre
+2° Passo) Pegar o resultado da soma e dividir por dois
+2° Passo) Se o resultado for menor que seis a nota ficará vermelha 
+ printf: saída de dados, mostra para o usuário 
+ scanf: pede os dados/entrada de dados
+ float: variável
